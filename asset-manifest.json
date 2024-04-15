@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/react-gh-pages/static/css/main.e6c13ad2.css",
+    "main.js": "/react-gh-pages/static/js/main.ddec87cd.js",
+    "static/media/dice-six.svg": "/react-gh-pages/static/media/dice-six.5ddf244b085e2ae3feba2294d4d1a661.svg",
+    "static/media/dice-five.svg": "/react-gh-pages/static/media/dice-five.e14080a7ec4e9f8ae6777ca4d464fa01.svg",
+    "static/media/dice-four.svg": "/react-gh-pages/static/media/dice-four.13b3ccbd0d07408831f8bcae7196617f.svg",
+    "static/media/dice-three.svg": "/react-gh-pages/static/media/dice-three.4a1f200f93d6dfa9d4c7bcd6ebb3f2a7.svg",
+    "static/media/dice-two.svg": "/react-gh-pages/static/media/dice-two.24e308854c23f2cc01c47f953ffddd87.svg",
+    "static/media/dice-one.svg": "/react-gh-pages/static/media/dice-one.dec340b2f0f381d8c50baf690e653f72.svg",
+    "index.html": "/react-gh-pages/index.html",
+    "main.e6c13ad2.css.map": "/react-gh-pages/static/css/main.e6c13ad2.css.map",
+    "main.ddec87cd.js.map": "/react-gh-pages/static/js/main.ddec87cd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.ddec87cd.js"
+  ]
+}
